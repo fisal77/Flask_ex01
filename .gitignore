@@ -13,3 +13,6 @@ ehthumbs.db
 Thumbs.db
 
 .github/**
+/package-lock.json
+/package.json
+/node_modules/
